@@ -74,8 +74,11 @@ Các mạng con sử dụng địa chỉ IP theo ba cách khác nhau:
 - Mỗi thiết bị trên mạng sẽ lưu giữ nhật ký về các địa chỉ MAC được liên kết với các thiết bị khác.
 
 **DHCP**
+
 Giao thức cấu hình máy chủ động
+
 ![alt text](images/image-9.png)
+
 Quy trình cấp địa chỉ IP cho thiết bị
 
 ### OSI (Open Systems Interconnection) Model
