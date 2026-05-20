@@ -66,6 +66,7 @@ Giao thức đóng vai trò là ngôn ngữ chung cho các thiết bị mạng. 
 - Định tuyến rất hữu ích khi các thiết bị được kết nối với nhau bằng nhiều đường dẫn
 ![alt text](images/image-8.png)
 
+
 **Subnetting**
 Các mạng con sử dụng địa chỉ IP theo ba cách khác nhau:
 - Xác định địa chỉ mạng
