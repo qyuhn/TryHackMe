@@ -52,6 +52,7 @@ Giao thức đóng vai trò là ngôn ngữ chung cho các thiết bị mạng. 
     - một thiết bị chỉ gửi dữ liệu nhận được từ thiết bị khác nếu nó không có dữ liệu nào để gửi.
 
 ![alt text](images/image-6.png)
+
 **Switch**
 - là thiết bị chuyên dụng trong mạng được thiết kế để tập hợp nhiều thiết bị khác nhau như máy tính, máy in hoặc bất kỳ thiết bị nào khác có khả năng kết nối mạng bằng Ethernet
 - Switch có thể kết nối một số lượng lớn thiết bị bằng cách có các cổng 4, 8, 16, 24, 32 và 64 để các thiết bị cắm vào
