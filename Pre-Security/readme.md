@@ -3,6 +3,7 @@
 Phương thức nhận dạng thiết bị: 2 phương thức
 - Địa chỉ IP
 - Địa chỉ MAC (tương tự như số seri)
+
 **Địa chỉ IP**
 Dùng để xác định 1 máy chủ trong 1 khoảng thời gian nhất định
 ![alt text](images/image.png)
