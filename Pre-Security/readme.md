@@ -243,9 +243,11 @@ URL: chỉ dẫn cách truy cập 1 tài nguyên trên Internet
 - sử dụng các thuật toán khác nhau để quyết định máy chủ nào phù hợp nhất để xử lý yêu cầu: 
     + round-robin: gửi lần lượt từng server
     + weighted: check yêu cầu đang xử lí của từng server, chọn server ít yêu cầu nhất
+  
 **CDN (Mạng phân phối nội dung)**
 - Cho phép lưu trữ các tệp tĩnh của trang web và phân phối nó cho các server khác
 - Có yêu cầu truy cập => CDN tìm vị trí server lưu trữ => gửi request tới đó
+
 **WAF**
 - Nằm giữa request và web server
 
