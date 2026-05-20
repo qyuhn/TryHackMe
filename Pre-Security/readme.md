@@ -14,6 +14,7 @@ Giao thức đóng vai trò là ngôn ngữ chung cho các thiết bị mạng. 
 
 - Thiết bị có thể nằm trên cả mạng riêng và mạng công cộng. Địa chỉ IP công cộng để xác định thiết bị trên môi trường Internet. Địa chỉ IP riêng để xác định thiết bị trong số các thiết bị khác. 
 - 2 thiết bị có thể liên lạc với nhau bằng địa chỉ IP của chúng, nhưng khi ra ngoài Internet thì cả 2 đều có chung 1 địa chỉ IP công cộng.
+
 ![alt text](images/image-1.png)
 Địa chỉ IP riêng của 2 thiết bị
 ![alt text](images/image-2.png)
